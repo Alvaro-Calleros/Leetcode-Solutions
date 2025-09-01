@@ -1,6 +1,6 @@
 # LeetCode TypeScript Solutions
 
-This repository contains my personal solutions to various LeetCode problems, implemented in TypeScript. The purpose of this project is to practice and improve my programming logic and problem-solving skills.
+This repository contains my personal solutions to various LeetCode problems, implemented in TypeScript or Javascript. The purpose of this project is to practice and improve my programming logic and problem-solving skills.
 
 ## Structure
 
