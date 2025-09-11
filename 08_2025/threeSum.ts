@@ -1,4 +1,4 @@
-function threeSum(nums: number[]): number[][] {
+function threeSumTS(nums: number[]): number[][] {
     nums.sort((a, b) => a - b);
     const res: number[][] = [];
     const n = nums.length;
